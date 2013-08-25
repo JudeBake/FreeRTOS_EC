@@ -1,0 +1,1177 @@
+<?xml version='1.0' encoding='ISO-8859-1' standalone='yes' ?>
+<tagfile>
+  <compound kind="file">
+    <name>AManagedTask.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_a_managed_task_8h</filename>
+    <includes id="_c_task_8h" name="CTask.h" local="yes" imported="no">CTask.h</includes>
+    <class kind="class">AManagedTask</class>
+  </compound>
+  <compound kind="file">
+    <name>ASyncObject.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_a_sync_object_8h</filename>
+    <includes id="_i_free_r_t_o_s_protocol_8h" name="IFreeRTOSProtocol.h" local="yes" imported="no">IFreeRTOSProtocol.h</includes>
+    <class kind="class">ASyncObject</class>
+  </compound>
+  <compound kind="file">
+    <name>ATimer.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_a_timer_8h</filename>
+    <includes id="_i_free_r_t_o_s_protocol_8h" name="IFreeRTOSProtocol.h" local="yes" imported="no">IFreeRTOSProtocol.h</includes>
+    <class kind="class">ATimer</class>
+  </compound>
+  <compound kind="file">
+    <name>CBinarySemaphore.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_c_binary_semaphore_8h</filename>
+    <includes id="_a_sync_object_8h" name="ASyncObject.h" local="yes" imported="no">ASyncObject.h</includes>
+    <class kind="class">CBinarySemaphore</class>
+  </compound>
+  <compound kind="file">
+    <name>CCountingSemaphore.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_c_counting_semaphore_8h</filename>
+    <includes id="_a_sync_object_8h" name="ASyncObject.h" local="yes" imported="no">ASyncObject.h</includes>
+    <class kind="class">CCountingSemaphore</class>
+  </compound>
+  <compound kind="file">
+    <name>CFreeRTOS.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_c_free_r_t_o_s_8h</filename>
+    <class kind="class">CFreeRTOS</class>
+  </compound>
+  <compound kind="file">
+    <name>CMessageTask.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_c_message_task_8h</filename>
+    <includes id="_a_managed_task_8h" name="AManagedTask.h" local="yes" imported="no">AManagedTask.h</includes>
+    <includes id="_message_macro_8h" name="MessageMacro.h" local="yes" imported="no">MessageMacro.h</includes>
+    <includes id="_message_8h" name="Message.h" local="yes" imported="no">Message.h</includes>
+    <includes id="_i_message_task_delegate_8h" name="IMessageTaskDelegate.h" local="yes" imported="no">IMessageTaskDelegate.h</includes>
+    <includes id="_c_queue_8h" name="CQueue.h" local="yes" imported="no">CQueue.h</includes>
+    <class kind="class">CMessageTask</class>
+  </compound>
+  <compound kind="file">
+    <name>CMutex.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_c_mutex_8h</filename>
+    <includes id="_a_sync_object_8h" name="ASyncObject.h" local="yes" imported="no">ASyncObject.h</includes>
+    <class kind="class">CMutex</class>
+  </compound>
+  <compound kind="file">
+    <name>CQueue.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_c_queue_8h</filename>
+    <includes id="_i_free_r_t_o_s_protocol_8h" name="IFreeRTOSProtocol.h" local="yes" imported="no">IFreeRTOSProtocol.h</includes>
+    <class kind="class">CQueue</class>
+  </compound>
+  <compound kind="file">
+    <name>CRecursiveMutex.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_c_recursive_mutex_8h</filename>
+    <includes id="_a_sync_object_8h" name="ASyncObject.h" local="yes" imported="no">ASyncObject.h</includes>
+    <class kind="class">CRecursiveMutex</class>
+  </compound>
+  <compound kind="file">
+    <name>CSharedResource.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_c_shared_resource_8h</filename>
+    <class kind="class">CSharedResource</class>
+  </compound>
+  <compound kind="file">
+    <name>CTask.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_c_task_8h</filename>
+    <includes id="_i_free_r_t_o_s_protocol_8h" name="IFreeRTOSProtocol.h" local="yes" imported="no">IFreeRTOSProtocol.h</includes>
+    <class kind="class">CTask</class>
+  </compound>
+  <compound kind="file">
+    <name>IFreeRTOSProtocol.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_i_free_r_t_o_s_protocol_8h</filename>
+    <class kind="class">IFreeRTOSObj</class>
+  </compound>
+  <compound kind="file">
+    <name>IMessageTaskDelegate.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_i_message_task_delegate_8h</filename>
+    <class kind="class">IMessageTaskDelegate</class>
+  </compound>
+  <compound kind="file">
+    <name>Message.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_message_8h</filename>
+  </compound>
+  <compound kind="file">
+    <name>MessageMacro.h</name>
+    <path>/home/julien/Embedded-Dev/FreeRTOS/FreeRTOS_EC/Source/</path>
+    <filename>_message_macro_8h</filename>
+    <class kind="class">CMessage</class>
+    <member kind="define">
+      <type>#define</type>
+      <name>DECLARE_MESSAGE_MAP</name>
+      <anchorfile>_message_macro_8h.html</anchorfile>
+      <anchor>aa220e0d847b40ac7bf38688d42821e17</anchor>
+      <arglist>(className)</arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>BEGIN_MESSAGE_MAP</name>
+      <anchorfile>_message_macro_8h.html</anchorfile>
+      <anchor>a01c4e72b757d6006bddc4cfc6e8e25d0</anchor>
+      <arglist>(baseClass, className)</arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>MESSAGE_MAP_ENTRY</name>
+      <anchorfile>_message_macro_8h.html</anchorfile>
+      <anchor>a9d97c0c5415d0b10c7601b8e5712db27</anchor>
+      <arglist>(className, messageId, messageHandler)</arglist>
+    </member>
+    <member kind="define">
+      <type>#define</type>
+      <name>END_MESSAGE_MAP</name>
+      <anchorfile>_message_macro_8h.html</anchorfile>
+      <anchor>aca96985a76d98a4bf0cba4dd07e14320</anchor>
+      <arglist>(className)</arglist>
+    </member>
+  </compound>
+  <compound kind="group">
+    <name>FreeRTOS_Managed</name>
+    <title>FreeRTOS Managed Class Extension</title>
+    <filename>group___free_r_t_o_s___managed.html</filename>
+    <class kind="class">AManagedTask</class>
+    <class kind="class">CMessageTask</class>
+    <class kind="class">CSharedResource</class>
+    <class kind="class">IMessageTaskDelegate</class>
+    <class kind="class">CMessage</class>
+    <file>Message.h</file>
+  </compound>
+  <compound kind="group">
+    <name>FreeRTOS_CPP_EXT</name>
+    <title>FreeRTOS Class Extension</title>
+    <filename>group___free_r_t_o_s___c_p_p___e_x_t.html</filename>
+    <subgroup>FreeRTOS_Managed</subgroup>
+    <subgroup>FreeRTOS_Wrapper</subgroup>
+  </compound>
+  <compound kind="group">
+    <name>FreeRTOS_Wrapper</name>
+    <title>FreeRTOS Wrapper Class</title>
+    <filename>group___free_r_t_o_s___wrapper.html</filename>
+    <class kind="class">CFreeRTOS</class>
+    <class kind="class">ASyncObject</class>
+    <class kind="class">ATimer</class>
+    <class kind="class">CBinarySemaphore</class>
+    <class kind="class">CCountingSemaphore</class>
+    <class kind="class">CMutex</class>
+    <class kind="class">CQueue</class>
+    <class kind="class">CRecursiveMutex</class>
+    <class kind="class">CTask</class>
+    <class kind="class">IFreeRTOSObj</class>
+  </compound>
+  <compound kind="class">
+    <name>AManagedTask</name>
+    <filename>class_a_managed_task.html</filename>
+    <base>CTask</base>
+    <member kind="function">
+      <type></type>
+      <name>AManagedTask</name>
+      <anchorfile>class_a_managed_task.html</anchorfile>
+      <anchor>af9008c048caeb65f2480e383ce006ac6</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual</type>
+      <name>~AManagedTask</name>
+      <anchorfile>class_a_managed_task.html</anchorfile>
+      <anchor>a1bb808c5278321ba63dd119781fd1b6c</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Create</name>
+      <anchorfile>class_a_managed_task.html</anchorfile>
+      <anchor>a43cb02adb79048fa33a696bac18ce06c</anchor>
+      <arglist>(const portCHAR *const pcName, unsigned portSHORT usStackDepth, unsigned portBASE_TYPE uxPriority)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual bool</type>
+      <name>HardwareInit</name>
+      <anchorfile>class_a_managed_task.html</anchorfile>
+      <anchor>a1a7b23740b946af85d09b3fe5494b1ae</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual void</type>
+      <name>Run</name>
+      <anchorfile>class_a_managed_task.html</anchorfile>
+      <anchor>aadf1a1d95a20f1e2e831494f07d3019b</anchor>
+      <arglist>()=0</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual portBASE_TYPE</type>
+      <name>OnCreate</name>
+      <anchorfile>class_a_managed_task.html</anchorfile>
+      <anchor>a28fe56c838b61d98302cc4af383e1b05</anchor>
+      <arglist>(const portCHAR *const pcName, unsigned portSHORT usStackDepth, unsigned portBASE_TYPE uxPriority)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>taskControlFunc</name>
+      <anchorfile>class_a_managed_task.html</anchorfile>
+      <anchor>a883fe36b2b4564029cd05f3dd58b10f5</anchor>
+      <arglist>(void *pParams)</arglist>
+    </member>
+    <member kind="friend" protection="private">
+      <type>friend class</type>
+      <name>CFreeRTOS</name>
+      <anchorfile>class_a_managed_task.html</anchorfile>
+      <anchor>a1682dcaee9d4861de9129f066ccd3db8</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>ASyncObject</name>
+    <filename>class_a_sync_object.html</filename>
+    <base>IFreeRTOSObj</base>
+    <member kind="function">
+      <type></type>
+      <name>ASyncObject</name>
+      <anchorfile>class_a_sync_object.html</anchorfile>
+      <anchor>af4bb4846ae07baf4821754c74d171c73</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>IsValid</name>
+      <anchorfile>class_a_sync_object.html</anchorfile>
+      <anchor>a3d7e75b6bc2b34ec089ee696f1dae5a3</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>Attach</name>
+      <anchorfile>class_a_sync_object.html</anchorfile>
+      <anchor>a2659197e3d59d24ff3e229f524082a3e</anchor>
+      <arglist>(xGenericHandle handle)</arglist>
+    </member>
+    <member kind="function">
+      <type>xGenericHandle</type>
+      <name>Detach</name>
+      <anchorfile>class_a_sync_object.html</anchorfile>
+      <anchor>ab963991fc4d85bd9d08a6476d847b681</anchor>
+      <arglist>()</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>ATimer</name>
+    <filename>class_a_timer.html</filename>
+    <base>IFreeRTOSObj</base>
+    <member kind="function">
+      <type></type>
+      <name>ATimer</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a280e3f913c426d2923d4f25ce66fdfe2</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>ATimer</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a6428227b76fb8add25eec75bbc221c83</anchor>
+      <arglist>(xTimerHandle handleTimer)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual</type>
+      <name>~ATimer</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a1b6f018dfafd85218cd1c5e3c21070b2</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>operator xTimerHandle</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a8e58af4a1097bd09aeb416fe06e40a4d</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>ATimer &amp;</type>
+      <name>Create</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>aedd1b15ad1ec4dcd43891ecc7f738013</anchor>
+      <arglist>(const signed char *pcTimerName, portTickType xTimerPeriod, unsigned portBASE_TYPE uxAutoReload)</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual void</type>
+      <name>OnExpired</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a1fe51d3da55ff6567d4c1ad896bfd8e0</anchor>
+      <arglist>()=0</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>IsTimerActive</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a97dae7a5f8fe8b38b9b0a05b191bc016</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Start</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a63021ae0f68d26e67ee7433e39008bbf</anchor>
+      <arglist>(portTickType xBlockTime)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Stop</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a61e762043685bab958633822f24af6d7</anchor>
+      <arglist>(portTickType xBlockTime)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>ChangePeriod</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>abb727facab9268d25f9307e2b5f921ce</anchor>
+      <arglist>(portTickType xNewPeriod, portTickType xBlockTime)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Delete</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a42217859f135dd79844d6d5184131864</anchor>
+      <arglist>(portTickType xBlockTime)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Reset</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a7b60d62dde298ff859bbad2a4584d163</anchor>
+      <arglist>(portTickType xBlockTime)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>StartFromISR</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>aa55bc46440de6f8081d08178b298c94f</anchor>
+      <arglist>(portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>StopFromISR</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a375e841aa381c3e57c548bf3fd5a1c01</anchor>
+      <arglist>(portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>ChangePeriodFromISR</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a455c75ac5bed32df66959674b5122322</anchor>
+      <arglist>(portTickType xNewPeriod, portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>ResetFromISR</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a8166ac2c74cbf5b71af497af95312118</anchor>
+      <arglist>(portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+    <member kind="function">
+      <type>void *</type>
+      <name>GetTimerID</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>aa8f499ed182a7f1457f9bde8a1540097</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>IsValid</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a1f3f646aee8bcbfb3858f495b7205414</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>Attach</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>acc4929332ca391fbb57b9c8afd2bf554</anchor>
+      <arglist>(xGenericHandle handle)</arglist>
+    </member>
+    <member kind="function">
+      <type>xGenericHandle</type>
+      <name>Detach</name>
+      <anchorfile>class_a_timer.html</anchorfile>
+      <anchor>a40e2a04cd1cfdc23f3afbec53d15180c</anchor>
+      <arglist>()</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>CBinarySemaphore</name>
+    <filename>class_c_binary_semaphore.html</filename>
+    <base>ASyncObject</base>
+    <member kind="function">
+      <type></type>
+      <name>CBinarySemaphore</name>
+      <anchorfile>class_c_binary_semaphore.html</anchorfile>
+      <anchor>aa9905d84fcffc7c1730ecec08df9801b</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>CBinarySemaphore</name>
+      <anchorfile>class_c_binary_semaphore.html</anchorfile>
+      <anchor>a61e5f80a0a52979adfd2d75288a5be62</anchor>
+      <arglist>(xSemaphoreHandle handleSemaphore)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual</type>
+      <name>~CBinarySemaphore</name>
+      <anchorfile>class_c_binary_semaphore.html</anchorfile>
+      <anchor>ad37b61eae138bc95d330ff9b0b03a738</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>Create</name>
+      <anchorfile>class_c_binary_semaphore.html</anchorfile>
+      <anchor>a5244c9311904040e2b745203fe4b6b64</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Take</name>
+      <anchorfile>class_c_binary_semaphore.html</anchorfile>
+      <anchor>a93d812586abb292d2ae2260f9de8908b</anchor>
+      <arglist>(portTickType xBlockTime)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Give</name>
+      <anchorfile>class_c_binary_semaphore.html</anchorfile>
+      <anchor>aed1ba57ed24c15fb762ec725544121b4</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>GiveFromISR</name>
+      <anchorfile>class_c_binary_semaphore.html</anchorfile>
+      <anchor>a59d85c5552142ba3815ef6f26b273369</anchor>
+      <arglist>(signed portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>CCountingSemaphore</name>
+    <filename>class_c_counting_semaphore.html</filename>
+    <base>ASyncObject</base>
+    <member kind="function">
+      <type></type>
+      <name>CCountingSemaphore</name>
+      <anchorfile>class_c_counting_semaphore.html</anchorfile>
+      <anchor>aef227f68e6ac573a07ee3d135347e749</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>CCountingSemaphore</name>
+      <anchorfile>class_c_counting_semaphore.html</anchorfile>
+      <anchor>a99ff9776a145c04ea9dc6a72f4f50c40</anchor>
+      <arglist>(xSemaphoreHandle handleSemaphore)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual</type>
+      <name>~CCountingSemaphore</name>
+      <anchorfile>class_c_counting_semaphore.html</anchorfile>
+      <anchor>a90a22f738e141f3454ff135375de83fa</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>Create</name>
+      <anchorfile>class_c_counting_semaphore.html</anchorfile>
+      <anchor>ae0eab5a2bebd04f6776dc532ec5e4207</anchor>
+      <arglist>(unsigned portBASE_TYPE uxMaxCount, unsigned portBASE_TYPE uxInitialCount)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Take</name>
+      <anchorfile>class_c_counting_semaphore.html</anchorfile>
+      <anchor>aafcb3cb1beb62b5b7b2a780cfc785e86</anchor>
+      <arglist>(portTickType xBlockTime)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Give</name>
+      <anchorfile>class_c_counting_semaphore.html</anchorfile>
+      <anchor>a003cbf707d0571867ece3573c4fc6b03</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>GiveFromISR</name>
+      <anchorfile>class_c_counting_semaphore.html</anchorfile>
+      <anchor>a6c3a1a19751cde21177b13a995a80252</anchor>
+      <arglist>(signed portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>CFreeRTOS</name>
+    <filename>class_c_free_r_t_o_s.html</filename>
+    <member kind="function">
+      <type></type>
+      <name>CFreeRTOS</name>
+      <anchorfile>class_c_free_r_t_o_s.html</anchorfile>
+      <anchor>a97f98f01784bf5d36b332dd63c73a01f</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>~CFreeRTOS</name>
+      <anchorfile>class_c_free_r_t_o_s.html</anchorfile>
+      <anchor>a892e7bf5bb5b9e1ca085f90390f55d48</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>StartScheduler</name>
+      <anchorfile>class_c_free_r_t_o_s.html</anchorfile>
+      <anchor>a6d1a49d338faffc63e254dcdb9843d7e</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>EndScheduler</name>
+      <anchorfile>class_c_free_r_t_o_s.html</anchorfile>
+      <anchor>a67c80ba5e75d8bdcabf4b42070392ca3</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>SuspendAllTasks</name>
+      <anchorfile>class_c_free_r_t_o_s.html</anchorfile>
+      <anchor>a04291e2ad980f7c4b29f2fecee391b0b</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static signed portBASE_TYPE</type>
+      <name>ResumeAllTasks</name>
+      <anchorfile>class_c_free_r_t_o_s.html</anchorfile>
+      <anchor>a0a860b31f9e357845ad7226eaf1b70ba</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static bool</type>
+      <name>InitHardwareForManagedTasks</name>
+      <anchorfile>class_c_free_r_t_o_s.html</anchorfile>
+      <anchor>af908f3db44271d9e2b1988bc16504f30</anchor>
+      <arglist>()</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>CMessage</name>
+    <filename>class_c_message.html</filename>
+    <member kind="variable">
+      <type>unsigned short</type>
+      <name>m_nId</name>
+      <anchorfile>class_c_message.html</anchorfile>
+      <anchor>afab71bf76a417b1cf27d44a9bcfe509a</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>unsigned long</type>
+      <name>wParam</name>
+      <anchorfile>class_c_message.html</anchorfile>
+      <anchor>a22d1a3d89bd94b1494fff5f3ae43073b</anchor>
+      <arglist></arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>CMessageTask</name>
+    <filename>class_c_message_task.html</filename>
+    <base>AManagedTask</base>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>OnCreate</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>a96de8cccf82ec8278c33045eada2014d</anchor>
+      <arglist>(const portCHAR *const pcName, unsigned portSHORT usStackDepth, unsigned portBASE_TYPE uxPriority)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>Run</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>aed270d89bb2e19aad076b82c7fa3cd79</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual bool</type>
+      <name>OnInit</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>ab8b3ed80fc1994f881d6e21f5aeb345e</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual void</type>
+      <name>OnTimeOut</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>a2c3d6ef0a92d4dfdab358bb7ad1cd219</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>SetDelegate</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>a2a7043ff485343891a8e1cdd924dcf46</anchor>
+      <arglist>(IMessageTaskDelegate *pDelegate)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>SetTimeout</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>a7c2151b0cd60f6d08a5e916b3b506aa8</anchor>
+      <arglist>(portTickType nNewTimeOut)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>PostMessage</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>ae605856326a69fe9c1a740e4dde43fd2</anchor>
+      <arglist>(CMessage *pMsg, portTickType nTicksToWait=portMAX_DELAY)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>PostMessageFromISR</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>a10e3b7cd84fbd85df5c9a7a412c036fd</anchor>
+      <arglist>(CMessage *pMsg, portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>SendMessage</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>a1ef4ba71084f4a739f882d68afdb59d9</anchor>
+      <arglist>(CMessage *pMsg, portTickType nTicksToWait=portMAX_DELAY)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>SenfFromISR</name>
+      <anchorfile>class_c_message_task.html</anchorfile>
+      <anchor>a6315e8d5235e65b8804cc2e6dda08675</anchor>
+      <arglist>(CMessage *pMsg, portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>CMutex</name>
+    <filename>class_c_mutex.html</filename>
+    <base>ASyncObject</base>
+    <member kind="function">
+      <type></type>
+      <name>CMutex</name>
+      <anchorfile>class_c_mutex.html</anchorfile>
+      <anchor>a9c050f1451600e8bc35c4c80f6533800</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>CMutex</name>
+      <anchorfile>class_c_mutex.html</anchorfile>
+      <anchor>a70127d1dde8f0769f38fd92c8da5ca97</anchor>
+      <arglist>(xSemaphoreHandle handleSemaphore)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual</type>
+      <name>~CMutex</name>
+      <anchorfile>class_c_mutex.html</anchorfile>
+      <anchor>a43fa2c418e6ec1ede656c8b9c4767494</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>Create</name>
+      <anchorfile>class_c_mutex.html</anchorfile>
+      <anchor>a7ad821d485184c66b88761124d7d1f92</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Take</name>
+      <anchorfile>class_c_mutex.html</anchorfile>
+      <anchor>a3c297ee1b6d8b18fa77412b55570f310</anchor>
+      <arglist>(portTickType xBlockTime)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Give</name>
+      <anchorfile>class_c_mutex.html</anchorfile>
+      <anchor>a00b4a6d5884871287adbfb686d224e8f</anchor>
+      <arglist>()</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>CQueue</name>
+    <filename>class_c_queue.html</filename>
+    <base>IFreeRTOSObj</base>
+    <member kind="function">
+      <type></type>
+      <name>CQueue</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a3956eb9fd198317e465b7b622329bec6</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>CQueue</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a3bb3719f5a3a3c734a32e7e77ddb2562</anchor>
+      <arglist>(xQueueHandle handleQueue)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual</type>
+      <name>~CQueue</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a73412173b1f7427ccd1b993acf5fb66c</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>operator xQueueHandle</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>ac22ffcfa7fc3072e49de465597de207a</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>IsValid</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a5cb57da091e17edd340d3312352dfaaf</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>Attach</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a9bfdb2e4f0a1910f3679ee299d538aed</anchor>
+      <arglist>(xGenericHandle handle)</arglist>
+    </member>
+    <member kind="function">
+      <type>xGenericHandle</type>
+      <name>Detach</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>aa8e53bb0f861ea1b610815679c78e96e</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>CQueue &amp;</type>
+      <name>Create</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a3a55a32a91577d37dc0c293d131b39ff</anchor>
+      <arglist>(unsigned portBASE_TYPE uxQueueLength, unsigned portBASE_TYPE uxItemSize)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>Delete</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>afeb0bb99f180df8c22cddd45238b26b2</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>unsigned portBASE_TYPE</type>
+      <name>MessagesWaiting</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>aec57e0da675b7093b0149b6658be13e2</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Send</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>afc823372621e0d86e26cfae1260d3474</anchor>
+      <arglist>(const void *pvItemToQueue, portTickType xTicksToWait)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>SendToBack</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>ae392be4e0fd4b8b4048dfc119fb97df3</anchor>
+      <arglist>(const void *pvItemToQueue, portTickType xTicksToWait)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>SendToFront</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a59e821e64c8c8f892a9c166fe530ad3c</anchor>
+      <arglist>(const void *pvItemToQueue, portTickType xTicksToWait)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Receive</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a82d5e295423d4c8d09ba087ed62fd915</anchor>
+      <arglist>(void *pvBuffer, portTickType xTicksToWait)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Peek</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a0d3a2c3fabd42a7545129cf66e2a187c</anchor>
+      <arglist>(void *pvBuffer, portTickType xTicksToWait)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>SendFromISR</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>ab438688b1e8c926c90977eb55549e209</anchor>
+      <arglist>(const void *pvItemToQueue, portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>SendToBackFromISR</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a42cb99d39a66739802d4373dce8270ca</anchor>
+      <arglist>(const void *pvItemToQueue, portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>SendToFrontFromISR</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>aecc3fa86ff2b9cc04e0c2d66ac82a31b</anchor>
+      <arglist>(const void *pvItemToQueue, portBASE_TYPE *pxHigherPriorityTaskWoken)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>ReceiveFromISR</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>a516966250b5cfea2f92779a8300f8c25</anchor>
+      <arglist>(void *pvBuffer, portBASE_TYPE *pxTaskWoken)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>AddToRegistry</name>
+      <anchorfile>class_c_queue.html</anchorfile>
+      <anchor>ae4a5fae5f836b0739de51c8f3f773ebb</anchor>
+      <arglist>(signed portCHAR *pcQueueName)</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>CRecursiveMutex</name>
+    <filename>class_c_recursive_mutex.html</filename>
+    <base>ASyncObject</base>
+    <member kind="function">
+      <type></type>
+      <name>CRecursiveMutex</name>
+      <anchorfile>class_c_recursive_mutex.html</anchorfile>
+      <anchor>a0dac857487ccbff78a69eae620be07e6</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>CRecursiveMutex</name>
+      <anchorfile>class_c_recursive_mutex.html</anchorfile>
+      <anchor>a9297dbcb07fb2cfa827339feaded479c</anchor>
+      <arglist>(xSemaphoreHandle handleSemaphore)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual</type>
+      <name>~CRecursiveMutex</name>
+      <anchorfile>class_c_recursive_mutex.html</anchorfile>
+      <anchor>a6a81b3d2450ff8f1c06874c6ea85be67</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>Create</name>
+      <anchorfile>class_c_recursive_mutex.html</anchorfile>
+      <anchor>a74fa52eb4813c74a0255d9f91737f082</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Take</name>
+      <anchorfile>class_c_recursive_mutex.html</anchorfile>
+      <anchor>a245d211276413a904b72562502c3bee7</anchor>
+      <arglist>(portTickType xBlockTime)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Give</name>
+      <anchorfile>class_c_recursive_mutex.html</anchorfile>
+      <anchor>adb9cb81eebf533130efb8a0cbce4e1b2</anchor>
+      <arglist>()</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>CSharedResource</name>
+    <filename>class_c_shared_resource.html</filename>
+    <templarg>T</templarg>
+    <templarg>L</templarg>
+    <templarg>nTimeout</templarg>
+  </compound>
+  <compound kind="class">
+    <name>CTask</name>
+    <filename>class_c_task.html</filename>
+    <base>IFreeRTOSObj</base>
+    <member kind="function">
+      <type></type>
+      <name>CTask</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>ab93bda20f8d592fca6ba26a0a847ade8</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>CTask</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>af95b3fd85c86ae9386e47fa310f3d824</anchor>
+      <arglist>(xTaskHandle handleTask)</arglist>
+    </member>
+    <member kind="function" virtualness="virtual">
+      <type>virtual</type>
+      <name>~CTask</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a6b17ffb69cdf119a7a82b65df30a0b7d</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>operator xTaskHandle</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a357ff4bf6c8fca6f4672f4965a9dd93a</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>Create</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>ae4bc3f516aca9c3879103a64519ced85</anchor>
+      <arglist>(pdTASK_CODE pvTaskCode, const portCHAR *const pcName, unsigned portSHORT usStackDepth, void *pvParameters, unsigned portBASE_TYPE uxPriority)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>CreateRestricted</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a70f2305d4c25757d0eae778406056b14</anchor>
+      <arglist>(xTaskParameters *pxTaskDefinition)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>Delete</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a0aab699792f3e38a9692d7b185664bf2</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>unsigned portBASE_TYPE</type>
+      <name>PriorityGet</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>ab60d8fa6a7e89389e8b29396d5f84841</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>PrioritySet</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a94d7708dbdec79ce804107dfd3e0e09f</anchor>
+      <arglist>(unsigned portBASE_TYPE uxNewPriority)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>Suspend</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a06ec4b76119e10a7d111eb33cac89184</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>Resume</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a4424b891ce6dd682fb3e0c920b69e550</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>ResumeFromISR</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>ac92f03b147bdf802908d96b9b10ea9b5</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>SetApplicationTag</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>aae860ecaf0f66e2f9391b98ee6a8b34f</anchor>
+      <arglist>(pdTASK_HOOK_CODE pxTagValue)</arglist>
+    </member>
+    <member kind="function">
+      <type>portBASE_TYPE</type>
+      <name>CallApplicationTaskHook</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a409b58acf20925c3d374728eac45b7e2</anchor>
+      <arglist>(void *pvParameter)</arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>AllocateMPURegions</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>ab3205f1fd6fdfa2b760c6df067859cca</anchor>
+      <arglist>(const xMemoryRegion *const xRegions)</arglist>
+    </member>
+    <member kind="function">
+      <type>bool</type>
+      <name>IsValid</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a3141af300aa6cee5b3e1bdfb52b62c80</anchor>
+      <arglist>() const </arglist>
+    </member>
+    <member kind="function">
+      <type>void</type>
+      <name>Attach</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>abf09a6cbf8ef1989b409a5624322ea94</anchor>
+      <arglist>(xGenericHandle handle)</arglist>
+    </member>
+    <member kind="function">
+      <type>xGenericHandle</type>
+      <name>Detach</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a358e8f2ead348c69bc746774aa2c2c4f</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>Delay</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a54938bdeea47c5f50cb9986940a244a9</anchor>
+      <arglist>(portTickType xTicksToDelay)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>DelayUntil</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>aad892d142ae309df578d2d6b0d09a3c0</anchor>
+      <arglist>(portTickType *pxPreviousWakeTime, portTickType xTimeIncrement)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>Yeld</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>ada662675c6a3efaa91b7452c38cbcbc1</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>EnterCritical</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a237752605ef9a2b4dc89d3a92d555be4</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>ExitCritical</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>aca79422ac21b3d3b1b4d4a489760c4e3</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>DisableInterrupt</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a8d4e6933ca0702047ab990ba256e4c02</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>EnableInterrupt</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a7ec4a9dabe04f65ff761b48025f74ce1</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static xTaskHandle</type>
+      <name>GetCurrentTaskHandle</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a6b253724f421f6d28496d1cf7933a486</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static portTickType</type>
+      <name>GetTickCount</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>ac9be7fa076773bb8500e3bbd44309add</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static portBASE_TYPE</type>
+      <name>GetSchedulerState</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a6a5b1a46ae30aefd0bebb413d345b6e1</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static unsigned portBASE_TYPE</type>
+      <name>GetNumberOfTasks</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a59531257ff93758a01e671ce07beb65f</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>GetTaskList</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>a65e527c32ec6c73b5a1273cb1c9b3f71</anchor>
+      <arglist>(portCHAR *pcWriteBuffer)</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static void</type>
+      <name>GetRunTimeStats</name>
+      <anchorfile>class_c_task.html</anchorfile>
+      <anchor>afe69cf36f4cddab5957a1c7e686e8655</anchor>
+      <arglist>(portCHAR *pcWriteBuffer)</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>IFreeRTOSObj</name>
+    <filename>class_i_free_r_t_o_s_obj.html</filename>
+    <member kind="function" virtualness="pure">
+      <type>virtual bool</type>
+      <name>IsValid</name>
+      <anchorfile>class_i_free_r_t_o_s_obj.html</anchorfile>
+      <anchor>a721af889a3b0fdf3fb50c68e886447d6</anchor>
+      <arglist>() const =0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual void</type>
+      <name>Attach</name>
+      <anchorfile>class_i_free_r_t_o_s_obj.html</anchorfile>
+      <anchor>a54027c27c320f9bed797e37a6dccd396</anchor>
+      <arglist>(xGenericHandle handle)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual xGenericHandle</type>
+      <name>Detach</name>
+      <anchorfile>class_i_free_r_t_o_s_obj.html</anchorfile>
+      <anchor>a73794fb668fbdf5cc9ca2b09d5b8e9e3</anchor>
+      <arglist>()=0</arglist>
+    </member>
+  </compound>
+  <compound kind="class">
+    <name>IMessageTaskDelegate</name>
+    <filename>class_i_message_task_delegate.html</filename>
+    <member kind="function" virtualness="pure">
+      <type>virtual void</type>
+      <name>OnHandleEvent</name>
+      <anchorfile>class_i_message_task_delegate.html</anchorfile>
+      <anchor>ac6dccbcbbdb6bc1b32071cc7d4830b98</anchor>
+      <arglist>(const CMessage &amp;msg)=0</arglist>
+    </member>
+    <member kind="function" virtualness="pure">
+      <type>virtual void</type>
+      <name>DidHandleEvent</name>
+      <anchorfile>class_i_message_task_delegate.html</anchorfile>
+      <anchor>a3aa3a93457154adeb5e4a614ee8925d2</anchor>
+      <arglist>(const CMessage &amp;msg)=0</arglist>
+    </member>
+  </compound>
+</tagfile>
